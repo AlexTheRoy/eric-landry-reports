@@ -1,0 +1,86 @@
+zip,state,parish,region,city,leads,leads_auto,leads_home,leads_oct_2026,leads_nov_2026,homeowners,attempting_contact,contacted,x_date,quoted,sold_households,inbound_callers
+70802,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,5,5,0,4,1,0,3,1,0,1,0,0
+70737,LA,Ascension,Greater Baton Rouge,Gonzales,4,4,0,2,2,2,3,1,0,0,0,0
+70767,LA,West Baton Rouge,Greater Baton Rouge,Port Allen,3,3,0,1,2,1,2,0,0,1,0,1
+70301,LA,Lafourche,Houma-Thibodaux and the Bayou,Thibodaux,3,3,0,3,0,2,2,0,1,0,0,1
+70364,LA,Terrebonne,Houma-Thibodaux and the Bayou,Houma,3,3,0,3,0,1,2,1,0,0,0,0
+70806,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,3,3,0,3,0,0,1,2,0,0,0,0
+70816,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,3,3,0,3,0,1,3,0,0,0,0,0
+70819,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,3,3,0,2,1,1,3,0,0,0,0,0
+71108,LA,Caddo,Northwest Louisiana,Shreveport,3,3,0,3,0,0,3,0,0,0,0,0
+71202,LA,Ouachita,Northeast Louisiana,Monroe,3,3,0,1,2,2,2,1,0,0,0,0
+71203,LA,Ouachita,Northeast Louisiana,Monroe,3,3,0,1,2,1,2,1,0,0,0,0
+71269,LA,Richland,Northeast Louisiana,Rayville,3,3,0,3,0,1,3,0,0,0,0,0
+70726,LA,Livingston,Greater Baton Rouge,Denham Springs,2,2,0,1,1,1,1,0,0,1,0,0
+70403,LA,Tangipahoa,Northshore and Florida Parishes,Hammond,2,2,0,1,1,0,2,0,0,0,0,0
+70441,LA,Saint Helena,Northshore and Florida Parishes,Greensburg,2,2,0,1,1,1,2,0,0,0,0,0
+70456,LA,Tangipahoa,Northshore and Florida Parishes,Roseland,2,2,0,2,0,2,2,0,0,0,0,0
+70520,LA,Lafayette,Acadiana,Carencro,2,2,0,1,1,0,2,0,0,0,0,0
+70526,LA,Acadia,Acadiana,Crowley,2,2,0,2,0,1,2,0,0,0,0,0
+70546,LA,Jefferson Davis,Southwest Louisiana,Jennings,2,2,0,1,1,2,1,0,0,0,0,0
+70607,LA,Calcasieu,Southwest Louisiana,Lake Charles,2,2,0,2,0,0,1,1,0,0,0,1
+70634,LA,Beauregard,Southwest Louisiana,Deridder,2,2,0,1,1,2,1,0,1,0,0,0
+70809,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,2,2,0,1,1,1,1,1,0,0,0,0
+71055,LA,Webster,Northwest Louisiana,Minden,2,2,0,1,1,1,2,0,0,0,0,0
+71111,LA,Bossier,Northwest Louisiana,Bossier City,2,2,0,2,0,1,2,0,0,0,0,0
+71201,LA,Ouachita,Northeast Louisiana,Monroe,2,2,0,1,1,0,2,0,0,0,0,0
+71220,LA,Morehouse,Northeast Louisiana,Bastrop,2,2,0,1,1,0,1,0,1,0,0,0
+71225,LA,Ouachita,Northeast Louisiana,Calhoun,2,2,0,2,0,1,2,0,0,0,0,0
+71360,LA,Rapides,Central Louisiana,Pineville,2,2,0,1,1,1,2,0,0,0,0,0
+70052,LA,Saint James,Houma-Thibodaux and the Bayou,Gramercy,1,1,0,1,0,1,0,0,0,1,0,0
+70507,LA,Lafayette,Acadiana,Lafayette,1,1,0,1,0,1,0,0,0,1,0,0
+70811,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,1,1,0,0,1,1,0,0,0,1,0,0
+70374,LA,Lafourche,Houma-Thibodaux and the Bayou,Lockport,1,1,0,0,1,1,1,0,0,0,0,0
+70394,LA,Lafourche,Houma-Thibodaux and the Bayou,Raceland,1,1,0,1,0,0,1,0,0,0,0,0
+70395,LA,Terrebonne,Houma-Thibodaux and the Bayou,Schriever,1,1,0,1,0,0,1,0,0,0,0,0
+70435,LA,Saint Tammany,Northshore and Florida Parishes,Covington,1,1,0,1,0,0,1,0,0,0,0,0
+70443,LA,Tangipahoa,Northshore and Florida Parishes,Independence,1,1,0,1,0,0,1,0,0,0,0,0
+70444,LA,Tangipahoa,Northshore and Florida Parishes,Kentwood,1,1,0,0,1,1,0,1,0,0,0,0
+70454,LA,Tangipahoa,Northshore and Florida Parishes,Ponchatoula,1,1,0,1,0,0,0,1,0,0,0,0
+70501,LA,Lafayette,Acadiana,Lafayette,1,1,0,1,0,1,1,0,0,0,0,0
+70512,LA,Saint Landry,Acadiana,Arnaudville,1,1,0,0,1,1,1,0,0,0,0,0
+70517,LA,Saint Martin,Acadiana,Breaux Bridge,1,1,0,0,1,0,1,0,0,0,0,0
+70570,LA,Saint Landry,Acadiana,Opelousas,1,1,0,1,0,0,1,0,0,0,0,0
+70582,LA,Saint Martin,Acadiana,Saint Martinville,1,1,0,1,0,1,1,0,0,0,0,0
+70584,LA,Saint Landry,Acadiana,Sunset,1,1,0,1,0,1,0,1,0,0,0,0
+70586,LA,Evangeline,Acadiana,Ville Platte,1,1,0,1,0,0,0,1,0,0,0,0
+70615,LA,Calcasieu,Southwest Louisiana,Lake Charles,1,1,0,1,0,0,0,0,1,0,0,0
+70653,LA,Beauregard,Southwest Louisiana,Merryville,1,1,0,0,1,0,1,0,0,0,0,0
+70661,LA,Calcasieu,Southwest Louisiana,Starks,1,1,0,1,0,0,1,0,0,0,0,0
+70714,LA,East Baton Rouge,Greater Baton Rouge,Baker,1,1,0,1,0,0,0,1,0,0,0,0
+70744,LA,Livingston,Greater Baton Rouge,Holden,1,1,0,1,0,1,1,0,0,0,0,0
+70769,LA,Ascension,Greater Baton Rouge,Prairieville,1,1,0,0,1,1,1,0,0,0,0,0
+70774,LA,Ascension,Greater Baton Rouge,Saint Amant,1,1,0,0,1,0,1,0,0,0,0,0
+70785,LA,Livingston,Greater Baton Rouge,Walker,1,1,0,1,0,0,1,0,0,0,0,0
+70791,LA,East Baton Rouge,Greater Baton Rouge,Zachary,1,1,0,1,0,1,1,0,0,0,0,0
+70805,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,1,1,0,0,1,0,0,1,0,0,0,0
+70807,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,1,1,0,0,1,0,1,0,0,0,0,1
+70815,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,1,1,0,1,0,0,1,0,0,0,0,0
+70817,LA,East Baton Rouge,Greater Baton Rouge,Baton Rouge,1,1,0,1,0,0,0,0,1,0,0,0
+71006,LA,Bossier,Northwest Louisiana,Benton,1,1,0,1,0,0,1,0,0,0,0,0
+71021,LA,Webster,Northwest Louisiana,Cullin,1,1,0,1,0,0,0,0,1,0,0,1
+71047,LA,Caddo,Northwest Louisiana,Keville,1,1,0,0,1,0,1,0,0,0,0,0
+71067,LA,Bossier,Northwest Louisiana,Princeton,1,1,0,0,1,0,1,0,0,0,0,0
+71068,LA,Bienville,Northwest Louisiana,Ringgold,1,1,0,1,0,0,1,0,0,0,0,0
+71106,LA,Caddo,Northwest Louisiana,Shreveport,1,1,0,1,0,0,1,0,0,0,0,0
+71109,LA,Caddo,Northwest Louisiana,Shreveport,1,1,0,1,0,0,1,0,0,0,0,0
+71112,LA,Bossier,Northwest Louisiana,Bossier City,1,1,0,1,0,1,1,0,0,0,0,0
+71118,LA,Caddo,Northwest Louisiana,Shreveport,1,1,0,0,1,1,1,0,0,0,0,0
+71219,LA,Franklin,Northeast Louisiana,Baskin,1,1,0,0,1,0,1,0,0,0,0,0
+71222,LA,Union,Northeast Louisiana,Bernice,1,1,0,0,1,0,1,0,0,0,0,0
+71251,LA,Jackson,Northeast Louisiana,Jonesboro,1,1,0,1,0,1,0,1,0,0,0,0
+71260,LA,Union,Northeast Louisiana,Marion,1,1,0,1,0,1,0,0,1,0,0,1
+71261,LA,Morehouse,Northeast Louisiana,Mer Rouge,1,1,0,0,1,1,0,1,0,0,0,0
+71263,LA,West Carroll,Northeast Louisiana,Oak Grove,1,1,0,1,0,0,1,0,0,0,0,0
+71291,LA,Ouachita,Northeast Louisiana,West Monroe,1,1,0,1,0,1,1,0,0,0,0,0
+71301,LA,Rapides,Central Louisiana,Alexandria,1,1,0,1,0,0,1,0,0,0,0,0
+71302,LA,Rapides,Central Louisiana,Alexandria,1,1,0,1,0,1,1,0,0,0,0,0
+71322,LA,Avoyelles,Central Louisiana,Bunkie,1,1,0,0,1,0,1,0,0,0,0,0
+71350,LA,Avoyelles,Central Louisiana,Mansura,1,1,0,1,0,0,1,0,0,0,0,0
+71353,LA,Saint Landry,Acadiana,Melville,1,1,0,0,1,1,1,0,0,0,0,0
+71367,LA,Evangeline,Acadiana,St Landry,1,1,0,1,0,1,1,0,0,0,0,0
+71418,LA,Caldwell,Northeast Louisiana,Columbia,1,1,0,0,1,0,1,0,0,0,0,0
+71424,LA,Rapides,Central Louisiana,Elmer,1,1,0,1,0,0,1,0,0,0,0,0
+71446,LA,Vernon,Central Louisiana,Leesville,1,1,0,1,0,1,1,0,0,0,0,0
+71449,LA,Sabine,Northwest Louisiana,Many,1,1,0,0,1,0,1,0,0,0,0,0
+71469,LA,Natchitoches,Central Louisiana,Robeline,1,1,0,1,0,0,1,0,0,0,0,0
